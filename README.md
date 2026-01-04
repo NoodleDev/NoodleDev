@@ -1,5 +1,5 @@
 <!--  -->
-## Hi, I'm João Pedro, a Developer from Brazil.
+## Hi, I'm João Pedro, a Developer.
 
 <!-- Your badges
  https://shields.io/
