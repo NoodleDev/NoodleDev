@@ -1,66 +1,30 @@
-<!--  -->
-## Hi, I'm João Pedro, a Developer.
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
+  <h2 style="margin: 0; font-size: 2rem; color: #ffcb05; text-shadow: 1px 1px 2px #000;">Hi there 👋</h2>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="80" style="transform: translateY(5px);" />
+</div>
 
-<!-- Your badges
- https://shields.io/
+- 👋 Hi, I’m **João Josafá**
+- 👨‍💻 Backend developer in progress
+- 📚 Currently learning **English**, **Java & Spring Boot (Beginner)**, **C/C++ (Just started)**
+- 📫 How to reach me: [joaojosafa11@proton.me](mailto:joaojosafa11@proton.me) or [contactjoaojosafa@gmail.com](mailto:contactjoaojosafa@gmail.com)
+
+### Technologies 💻
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80"/>
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80"/>
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80"/>
+   <!-- <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="80"/> -->
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80"/>
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80"/>
+    <img src="https://skillicons.dev/icons?i=c" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=postgresql" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=git" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=linux" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=maven" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=spring" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=md" width="80" height="80" />
+</div>
+
+<!--
+### Contributing projects
 -->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yuhuou)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-josafá-015339332/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaojosafa11@proton.me)
-
----
-
-<!-- Talking about you -->
-**About me:**
-
-<img width="350px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on personal projects.
-- 🌱 I’m currently learning Java and React.
-- 📫 How to reach me: joaojosafa11@proton.me.
-
-<br/>
-
----
-
-  ### 🚀 Quick Stats
-  
- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuhuou&show_icons=true&theme=algolia" width="430px" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniew&layout=compact&theme=algolia&hide_border=true" width="430px" /> -->
-</p>
-
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-  <!-- languages and tools.  
-  https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  
-### 🧠 Languages
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-
-### 💾 Databases
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-
-### ⚙️ DevOps & Tools
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
-### 🖥️ OS & Platforms
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-
-### 🌐 Frameworks
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="120px" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-</p>
