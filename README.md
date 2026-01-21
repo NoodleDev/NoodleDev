@@ -10,7 +10,7 @@
 public class Developer {
     String name = "João Pedro Josafá";
     String role = "Backend Developer";
-    String[] currentlyLearning = {"Java & Spring Boot", "C/C++", "English"};
+    String[] currentlyLearning = {"Java & Spring Boot", "English"};
     String location = "Brazil 🇧🇷";
     
     void code() {
