@@ -13,7 +13,6 @@ public class Developer {
     String[] stack  = {"Java", "Spring Boot", "REST APIs", "Docker"};
     String learning = "English & RabbitMQ|Kafka";
     String location = "Brazil 🇧🇷";
-    int yearsCoding = LocalDate.now().getYear() - 2022;
     
     void code() {
         while(true) {
@@ -35,26 +34,11 @@ public class Developer {
 
 ### Technologies 💻
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80"/>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80"/>
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80"/>
-   <!-- <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="80"/> -->
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80"/>
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80"/>
-    <img src="https://skillicons.dev/icons?i=c" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=postgresql" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=git" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=linux" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=bash" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=maven" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=spring" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=md" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=nextjs" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=ts" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=react" width="80" height="80" />
-    <img src="https://skillicons.dev/icons?i=nodejs" width="80" height="80" />
-</div>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,bash,linux,github,git,postgres,mysql,mongodb,spring,nodejs,docker&perline=8", width="550", height="550" />
+    </a>
+</p>
 
 ---
 
